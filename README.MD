@@ -9,6 +9,7 @@
 -- EPISODE-2 (Igniting our App) --
 1. Push the code to the github
     1.1 Create Respository
-    1.2 Initialise git in our App
-    1.3 Create main branch (name: main)
-    1.4 Push all code of the App to the github
+    1.2 Initialise git in our App {git init}
+    1.3 Create main branch {git branch -M name}
+    1.4 Push all code
+    1.5 Configure
